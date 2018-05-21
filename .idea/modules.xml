@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn.iml" filepath="$PROJECT_DIR$/learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven/maven.iml" filepath="$PROJECT_DIR$/maven/maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis-01/mybatis-01.iml" filepath="$PROJECT_DIR$/mybatis/mybatis-01/mybatis-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty-01/netty-01.iml" filepath="$PROJECT_DIR$/netty/netty-01/netty-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa/soa.iml" filepath="$PROJECT_DIR$/soa/soa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa/soa-consomer/soa-consomer.iml" filepath="$PROJECT_DIR$/soa/soa-consomer/soa-consomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa/soa-provider/soa-provider.iml" filepath="$PROJECT_DIR$/soa/soa-provider/soa-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soa/zd-dubbo/zd-dubbo.iml" filepath="$PROJECT_DIR$/soa/zd-dubbo/zd-dubbo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="E:/yyt/yyt-root/yyt-provider/yyt-provider-base/src/main/resources/dubbo/dubbo-consumer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/yyt/yyt-root/yyt-provider/yyt-provider-base/src/main/resources/dubbo/dubbo-service.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/yyt/yyt-root/yyt-provider/yyt-provider-message/src/main/java/cn/yunyichina/provider/message/dao/ImageTemplateDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/yyt/yyt-root/yyt-provider/yyt-provider-sb/src/main/resources/conf/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/maven/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/netty/netty-01/src/main/java/cn/zd/netty/service/TraditionalSocketDemo01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/netty/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/soa/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/soa/zd-dubbo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
